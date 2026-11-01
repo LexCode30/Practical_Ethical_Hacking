@@ -1,0 +1,209 @@
+# Practical Ethical Hacking
+
+1. Before We Begin  [s1.html]
+    001. PNPT Certification Path Progression  ->  https://drive.google.com/file/d/1Sujs7o1ZL4T2D7yt7l_7F9RAvkFCKo_K/preview
+
+2. Introduction  [s2.html]
+    001. Course Introduction  ->  https://drive.google.com/file/d/1M_ZJR56vAP3fvqFnsLrJqEPQA49kHA13/preview
+    002. Course Discord Important  ->  https://drive.google.com/file/d/1M_xHeZXc-FBiwBpI5rj9ZUug1azUaeDS/preview
+    003. A Day in the Life of an Ethical Hacker  ->  https://drive.google.com/file/d/1Mc_JS_Ogvvf0XwsXtu59iHGBWF7h7dRD/preview
+    004. Why You Shouldn t Be An Ethical Hacker  ->  https://drive.google.com/file/d/1MdLGvnngKKomNSrTdffPDt1DX22cSNu5/preview
+
+3. Notekeeping  [s3.html]
+    001. Effective Notekeeping  ->  https://drive.google.com/file/d/1SgxvH3fqW-OtH1OagQNNBNyf7qh3fwlK/preview
+    002. Screenshots for the Win  ->  https://drive.google.com/file/d/1SI7CSVmQ6sDNb6smOfDTCVPWVDFfmgj5/preview
+
+4. Networking Refresher  [s4.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1RmcFDnN1bBcrHgjvwS5q2QvCBORIe6ft/preview
+    002. IP Addresses  ->  https://drive.google.com/file/d/1ScwmBq3Ky_Ilt9RM9SE0DfGj8wjjyWfj/preview
+    003. MAC Addresses  ->  https://drive.google.com/file/d/1S6fN3IqshEy0qsGq1eOmpUuSqqlkNUpD/preview
+    004. TCP UDP and the Three-Way Handshake  ->  https://drive.google.com/file/d/1Sa902v5HFi_CR8blmCxGevYCPBUIIkR6/preview
+    005. Common Ports and Protocols  ->  https://drive.google.com/file/d/1SNt8jrHw3s8dx72iuBG88xlHrcyxsrzb/preview
+    006. The OSI Model  ->  https://drive.google.com/file/d/1S4uAI417oKO8U7y-fPT6hE6X6QQWPNN7/preview
+    007. Subnetting Part 1  ->  https://drive.google.com/file/d/1S7gj7HnAv0y_A3Mi_3k3ozyYUUUDlayg/preview
+    008. Subnetting Part 2  ->  https://drive.google.com/file/d/1Sbg5QPT3pJpF_ithJB65XDVWznRTmsXZ/preview
+
+5. Setting Up Our Lab  [s5.html]
+    001. Installing VMWare - VirtualBox  ->  https://drive.google.com/file/d/1JTs8d_b3qIdD-_ZgllboQ4Pi8mn6-soH/preview
+    002. Configuring VirtualBox  ->  https://drive.google.com/file/d/1JSIPStoDuE0CdoVFDPGtWbWvLx8p-9zI/preview
+    003. Installing Kali Linux  ->  https://drive.google.com/file/d/1JUD0FeYcBltHpTL2B67ClQW7vZY_lA4p/preview
+
+6. The Ethical Hacker Methodology  [s6.html]
+    001. The Five Stages of Ethical Hacking  ->  https://drive.google.com/file/d/1I1CfmXFQ13a90206KEY1XCsni3hSVN2i/preview
+
+7. Information Gathering Reconnaissance  [s7.html]
+    001. Passive Reconnaissance Overview  ->  https://drive.google.com/file/d/1J_JXa4zWvdcF-QIh2g77iL7K215jtuSK/preview
+    002. Identifying Our Target  ->  https://drive.google.com/file/d/1JVWpM23tzkP_nuR56kJw0S-VdRpN4Hxa/preview
+    003. Discovering Email Addresses  ->  https://drive.google.com/file/d/1Jco1HHc4vOrh_XTDu7S0CJMqy5SIZqqG/preview
+    004. Gathering Breached Credentials with Breach-Parse  ->  https://drive.google.com/file/d/1Ji0MGcBEsnYsP0FFMLQVpX5fjL3Hx01M/preview
+    005. Hunting Breached Credentials with DeHashed  ->  https://drive.google.com/file/d/1Jbs8aj7wLtWWsYUBdB-wgKbeBwJA7-QF/preview
+    006. Hunting Subdomains Part 1  ->  https://drive.google.com/file/d/1KVgsQ2vJlmrrGbWI-RvsOtwhDOH6cl6h/preview
+    007. Hunting Subdomains Part 2  ->  https://drive.google.com/file/d/1JVzNr1EEPQT1BCRupfjTVec9LIBnR3LY/preview
+    008. Identifying Website Technologies  ->  https://drive.google.com/file/d/1KZXEVlYHRKynD3KE1hkRMssTRWbm5Wwq/preview
+    009. Information Gathering with Burp Suite  ->  https://drive.google.com/file/d/1JkBTrXOOcDcS9vAUktsMvf1f03Qma0-n/preview
+    010. Google Fu  ->  https://drive.google.com/file/d/1JuHisRyLFh0OxXQaldVku92TfSUypeFs/preview
+    011. Utilizing Social Media  ->  https://drive.google.com/file/d/1KGJBbTicVtu-AaCUq2zaDJDPrnkyueaB/preview
+    012. Additional Learning OSINT Fundamentals  ->  https://drive.google.com/file/d/1JXhoYCPkr-8vWFLUnyVHG-sQ5l6fPPDF/preview
+
+8. Scanning & Enumeration  [s8.html]
+    001. Installing Kioptrix  ->  https://drive.google.com/file/d/1ITVmVRYmBh4lOOA2ibrQ64g0ocAYEV7s/preview
+    002. Scanning with Nmap  ->  https://drive.google.com/file/d/1IxV4z3PMPYAZ56SMYEE8PHDpx4kt_bY4/preview
+    003. Enumerating HTTP and HTTPS Part 1  ->  https://drive.google.com/file/d/1I5QPuaDjhvEY6tHsDd_pkdpz_bwRVvFD/preview
+    004. Enumerating HTTP and HTTPS Part 2  ->  https://drive.google.com/file/d/1IIe-HYOdY6lxOdnDeuoKF-YXeykTRFB5/preview
+    005. Enumerating SMB  ->  https://drive.google.com/file/d/1I4Q2EE_a9idFNTfwtRC-FOZmWdgMGc82/preview
+    006. Enumerating SSH  ->  https://drive.google.com/file/d/1IeJ1D3zi2KWaVFBda2wuM-2EeC3FnItw/preview
+    007. Researching Potential Vulnerabilities  ->  https://drive.google.com/file/d/1I9VePNQGw0xV_DgW6XzGn5q0m5ULE7Xn/preview
+    008. Our Notes So Far  ->  https://drive.google.com/file/d/1I-PtVctL5U86rfaEb8EXOjhuQ0kc08dl/preview
+
+9. Vulnerability Scanning with Nessus  [s9.html]
+    001. Scanning with Nessus Part 1  ->  https://drive.google.com/file/d/1V9EApHpuy8cbudqIF9g6a0viTRT44axf/preview
+    002. Scanning with Nessus Part 2  ->  https://drive.google.com/file/d/1VCuGMcgjz8PpyFDSbVjCQTH4XBfx0-07/preview
+
+10. Exploitation Basics  [s10.html]
+    001. Reverse Shells vs Bind Shells  ->  https://drive.google.com/file/d/1RjY6jrhup0NunyNb4yCmdYuQ1HbUfTQM/preview
+    002. Staged vs Non-Staged Payloads  ->  https://drive.google.com/file/d/1RD4dXDZ7dAZWDJFDWkzLyhBHDrojiTM6/preview
+    003. Gaining Root with Metasploit  ->  https://drive.google.com/file/d/1RiqUs5pHmGF_dQR4a9ssJ6jUmG8lT9sz/preview
+    004. Manual Exploitation  ->  https://drive.google.com/file/d/1RfvTMXG8ADZIvRVY06e2Pp7YEVCIUGGL/preview
+    005. Brute Force Attacks  ->  https://drive.google.com/file/d/1RjgdRMxGBNp_iL-3NCJgGfxzNhOncn5p/preview
+    006. Credential Stuffing and Password Spraying  ->  https://drive.google.com/file/d/1ROlLtf0g4Ep3maWCxrqQBfORFEMn6pZC/preview
+    007. Our Notes Revisited  ->  https://drive.google.com/file/d/1RDNoXWdpEBhzBq13B2inGVimCecIkUUZ/preview
+
+11. New Capstone  [s11.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1JF-mu0wqwihAkGgNsrlKq85Oz4wAwgaS/preview
+    002. Set Up - Blue  ->  https://drive.google.com/file/d/1Id5IYl9x7rT61ifkEy6XM6h29nSzUBA9/preview
+    003. Walkthrough - Blue  ->  https://drive.google.com/file/d/1Hh0LXsPJKtKCHPLUh7BqP3j-F7D9WSK3/preview
+    004. Set Up - Academy  ->  https://drive.google.com/file/d/1HpJf4OQTEyXSRlOQ1d1MZjo_1BlTDABr/preview
+    005. Walkthrough - Academy  ->  https://drive.google.com/file/d/1HVrIxipNu4c5sbSgpkWO_N5ffPZFcnmj/preview
+    006. Walkthrough - Dev  ->  https://drive.google.com/file/d/1HdiCy3MayQdCx_iHb0LLosMeeNnl5iw9/preview
+    007. Walkthrough - Butler  ->  https://drive.google.com/file/d/1J3Y3UYXOT7RRZWek8N1y8lffitLYC-zd/preview
+    008. Walkthrough - Blackpearl  ->  https://drive.google.com/file/d/1HlCRgyzHySHzkBfenpqwkkBNmdyNZZIy/preview
+
+12. Active Directory Overview  [s12.html]
+    001. Active Directory Overview  ->  https://drive.google.com/file/d/1TXEVBBz1CdJS5goMaeSSU7LMnrBrU97c/preview
+    002. Physical Active Directory Components  ->  https://drive.google.com/file/d/1TWATalfKwXMqGlbIdfFRvuVV1KE0T53i/preview
+    003. Logical Active Directory Components  ->  https://drive.google.com/file/d/1Tbi8tV0JrgSulK2K1TV9ZjDgRoXsm6XN/preview
+
+13. Active Directory Lab Build  [s13.html]
+    001. Lab Overview and Requirements  ->  https://drive.google.com/file/d/1OX0pI9V4zFez0Cl781Kn7d1fvlPTgiDI/preview
+    002. Lab Build - Cloud Alternative  ->  https://drive.google.com/file/d/1Ol_T1kLiXJwb0-W0osHo2svrvfEDRHae/preview
+    003. Downloading Necessary ISOs  ->  https://drive.google.com/file/d/1ObqZiuQ8yaAJbx76JwSNPBpN7vc0HwfM/preview
+    004. Setting Up the Domain Controller  ->  https://drive.google.com/file/d/1Owl3FtbZJISOCWoLkugg4VTLA3eSzrIr/preview
+    005. Setting Up the User Machines  ->  https://drive.google.com/file/d/1OsprEt3gYFfiw9Px7ZLMsRx7TkStPwF3/preview
+    006. Setting Up Users Groups and Policies  ->  https://drive.google.com/file/d/1OkOCbuUfs_qOfY4uSJnw1Rr0P5SMk6tV/preview
+    007. Joining Our Machines to the Domain  ->  https://drive.google.com/file/d/1OgPJZ4MTR-R4h_OCLAuGQbRaG7JkD5e7/preview
+
+14. Attacking Active Directory Initial Attack Vectors  [s14.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1KZtoayBCpkhtivhR90ch73ohaCzgiVde/preview
+    002. LLMNR Poisoning Overview  ->  https://drive.google.com/file/d/1LMaRhr2dKjGhslAC2-E-RrXZuOZtIeQ9/preview
+    003. Capturing Hashes with Responder  ->  https://drive.google.com/file/d/1LXLLdtcwrdoUmtNPece3fnFl4ohDeX7c/preview
+    004. Cracking Our Captured Hashes  ->  https://drive.google.com/file/d/1LfW3ajur74YhBMEiHbYqrB52Fffavz31/preview
+    005. LLMNR Poisoning Mitigation  ->  https://drive.google.com/file/d/1LCt_mWT9lkl7A6hqF7tkfCB-pIMxfelW/preview
+    006. SMB Relay Attacks Overview  ->  https://drive.google.com/file/d/1LOjIseFawSjm0UArY2WJdxIRg58z_wnM/preview
+    007. SMB Relay Attacks Lab  ->  https://drive.google.com/file/d/1LP_FX6dPOW3gtKFX9U5zLKBvX5jdHhOT/preview
+    008. SMB Relay Attack Defenses  ->  https://drive.google.com/file/d/1LFAdlWBnWVXwZwiCleP_VGU5wFxprysJ/preview
+    009. Gaining Shell Access  ->  https://drive.google.com/file/d/1LZVkSOm53d-UzkbROGJPGOJ_AY7q97Bk/preview
+    010. IPv6 Attacks Overview  ->  https://drive.google.com/file/d/1KiC7QRCHv9cUhGUaVtoU8jh8chdXFObw/preview
+    011. IPv6 DNS Takeover via mitm6  ->  https://drive.google.com/file/d/1LGExlm8ZrL6q4v3LGG9B_YATRt0dFAF1/preview
+    012. IPv6 Attack Defenses  ->  https://drive.google.com/file/d/1KmuB0A4opf5YIFg3946PVvRoF_D7zLsl/preview
+    013. Passback Attacks  ->  https://drive.google.com/file/d/1LCDC0Yk0UW_mpdycZcwzlLKzDYW1bFfP/preview
+    014. Initial Internal Attack Strategy  ->  https://drive.google.com/file/d/1LYRazkJ0TUlHg0WWGKMihWetBmzC-KxC/preview
+
+15. Attacking Active Directory Post-Compromise Enumeration  [s15.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1S1Ad6ZhbqWm67nkX79LPQcm1nK9kM7bW/preview
+    002. Domain Enumeration with ldapdomaindump  ->  https://drive.google.com/file/d/1RnD5C7CJxtCSZrFRZ5z9avOL5Lm4fTqn/preview
+    003. Domain Enumeration with Bloodhound  ->  https://drive.google.com/file/d/1Rw4blVxefWRwZuhifAhfgCX93adIliiT/preview
+    004. Domain Enumeration with Plumhound  ->  https://drive.google.com/file/d/1RjsHsxbJ1Re9RLeEKzy6xFYgXIX-uHVS/preview
+    005. Domain Enumeration with PingCastle  ->  https://drive.google.com/file/d/1S3VPFdbasldOmzmPDgVAtFkXrGtpVNaP/preview
+
+16. Attacking Active Directory Post-Compromise Attacks  [s16.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1NpKm24F98cVzgQPBDJp-urPHvEgT-N7c/preview
+    002. Pass Attacks Overview  ->  https://drive.google.com/file/d/1O-vSk_QYepV66hh0Mklu_pzEwFIdZ5ca/preview
+    003. Pass Attacks  ->  https://drive.google.com/file/d/1OU1VBK8gIeOhy5cSYX9UcD11Epn6No4o/preview
+    004. Dumping and Cracking Hashes  ->  https://drive.google.com/file/d/1OIIqcWU59myRWd9nmqGNrjfMu_ty3-5k/preview
+    005. Pass Attack Mitigations  ->  https://drive.google.com/file/d/1NzGMyfwS2Uo1qSAZH2glA0AlrNBLXwmJ/preview
+    006. Kerberoasting Overview  ->  https://drive.google.com/file/d/1N_-LSwW1-R9SojQZb4KlB3liNCyrN8EH/preview
+    007. Kerberoasting Walkthrough  ->  https://drive.google.com/file/d/1O8SgpNGpw_EUxivdw4inpffzlUXDkS4o/preview
+    008. Kerberoasting Mitigation  ->  https://drive.google.com/file/d/1NZxSKZ4SPlmp09ni8XFZ-tARc1gwwfkX/preview
+    009. Token Impersonation Overview  ->  https://drive.google.com/file/d/1ObR5eNpMJBRpDsgAgY2N3TdL5wmOQDS3/preview
+    010. Token Impersonation Walkthrough  ->  https://drive.google.com/file/d/1O1urDc2xfK4M2gURF61C2pf0a84eOvmi/preview
+    011. Token Impersonation Mitigation  ->  https://drive.google.com/file/d/1Nt0cxHhnSuXkYrbftVSnMq14dXWce3_f/preview
+    012. LNK File Attacks  ->  https://drive.google.com/file/d/1O3zSEQ0aOOwlbqsXoMBmnI6r4su-DONa/preview
+    013. GPP - cPassword Attacks and Mitigations  ->  https://drive.google.com/file/d/1NsSsOZGAiSf6VC72aHmbdVgCphYnV6DG/preview
+    014. Mimikatz Overview  ->  https://drive.google.com/file/d/1O-uo3CPmAVa8xCD14ASWOmJ3dV45huBt/preview
+    015. Credential Dumping with Mimikatz  ->  https://drive.google.com/file/d/1OS-PaM5hkV6DKilp2qBpWWUSxcdcuEyo/preview
+    016. Post-Compromise Attack Strategy  ->  https://drive.google.com/file/d/1OHFZD-2afrk0tPzpqQZnMWEoCf51etK9/preview
+
+17. We ve Compromised the Domain - Now What  [s17.html]
+    001. Post-Domain Compromise Attack Strategy  ->  https://drive.google.com/file/d/1MJN6ZfCLQVfcLnD0fnRCd46JSC2c2MEm/preview
+    002. Dumping the NTDS.dit  ->  https://drive.google.com/file/d/1MXAkMq_n-WwlSnBBw5Deqd542oR9-ey5/preview
+    003. Golden Ticket Attacks Overview  ->  https://drive.google.com/file/d/1M9GIXN9xUtnGsO6Dd53ua7tB984P5rm3/preview
+    004. Golden Ticket Attacks  ->  https://drive.google.com/file/d/1M0flxbN91XFi_aG8QztOZbo4JRur1FBe/preview
+
+18. Additional Active Directory Attacks  [s18.html]
+    001. Section Overview  ->  https://drive.google.com/file/d/1SVbikZ-KY474Ae1ovawegCqnVf26_GgS/preview
+    002. Abusing ZeroLogon  ->  https://drive.google.com/file/d/1Slhv48HK0ETQyjKzldRo73TLWsMdMubf/preview
+    003. PrintNightmare CVE-2021-1675 Walkthrough  ->  https://drive.google.com/file/d/1SmS1IuYTtt2MoWRjFclRSH-8d1g4veTJ/preview
+
+19. Active Directory Case Studies  [s19.html]
+    001. AD Case Study 1  ->  https://drive.google.com/file/d/1MY9iBawgfl7sNyh5y8sYyDHf4bxhhja-/preview
+    002. AD Case Study 2  ->  https://drive.google.com/file/d/1M0ayfxOyEh4AJjWktusp1o3XCUKGhl1j/preview
+    003. AD Case Study 3  ->  https://drive.google.com/file/d/1M5dKIMNTlk0R-K3liDmxMW59ALikcTvw/preview
+
+20. Post Exploitation  [s20.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1KDrLYwlWttb4wOwugTpqHG3p9t-d4aBG/preview
+    002. File Transfers Review  ->  https://drive.google.com/file/d/1KfFdyW-AzUeS9hHJRUnnjPpYQvZ1wa-9/preview
+    003. Maintaining Access Overview  ->  https://drive.google.com/file/d/1Kn5UO_lV8r_53MeyaX-UmdzIBeYWuew3/preview
+    004. Pivoting Overview  ->  https://drive.google.com/file/d/1Kh4dkQbPYFHTRhp7COOohga9ZCeiaCuf/preview
+    005. Pivoting Walkthrough  ->  https://drive.google.com/file/d/1L0hfaT84UFepEKu-PEANb5JjXpK9rOVz/preview
+    006. Cleaning Up  ->  https://drive.google.com/file/d/1Kaib2almhORXf9INyBkdMbBucLyjGubS/preview
+
+21. Web Application Enumeration Revisited  [s21.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1TEGHk2Dp-p0huiysG5RWVFpJuLljoati/preview
+    002. Installing Go  ->  https://drive.google.com/file/d/1TDmVuWx3wpOwIzVz4C-WOdelRryIFUAS/preview
+    003. Finding Subdomains with Assetfinder  ->  https://drive.google.com/file/d/1TJKtX9Smj6XhAyj34TCidXzAr-4GHY6w/preview
+    004. Finding Subdomains with Amass  ->  https://drive.google.com/file/d/1TJfErCbH--VpFTwvBZkUkJCMHRe3mPDv/preview
+    005. Finding Alive Domains with Httprobe  ->  https://drive.google.com/file/d/1SxyRTXGnTVFt_Hn8h2Ekwh1NDj7PFXEu/preview
+    006. Screenshotting Websites with GoWitness  ->  https://drive.google.com/file/d/1SpBdSTppCdf6KdUTgs7dIV4IOuQ1hjHN/preview
+    007. Automating the Enumeration Process  ->  https://drive.google.com/file/d/1TJ5qbZ-Vjjqw2CAh_56HKCaf2WBfp5_I/preview
+    008. Additional Resources  ->  https://drive.google.com/file/d/1T79D8VYbeMQ3jjaUuICYee6ZuJAf8xtN/preview
+
+22. Find & Exploit Common Web Vulnerabilities  [s22.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1U6TZjNhbczfqHju-O6xGR3QbQtIEecNj/preview
+    002. Lab Setup full text instructions included in course notes  ->  https://drive.google.com/file/d/1UMnrgMaizAqyJ_aUEl28whjMd0e_immN/preview
+    003. SQL Injection - Introduction  ->  https://drive.google.com/file/d/1UmeG9LKGw_bWkEsJMC_3Vq7nmtS8x73E/preview
+    004. SQL Injection - UNION  ->  https://drive.google.com/file/d/1U2DFVWPSuCcuzH1VGo45714m4ZWANYC4/preview
+    005. SQL Injection - Blind Part 1  ->  https://drive.google.com/file/d/1UJGG2PH7XPMnid7FgBmb6s_SjWuND2DW/preview
+    006. SQL Injection - Blind Part 2  ->  https://drive.google.com/file/d/1UTcftn8qr_4noHl5-LnDdPSNXo_7H1aw/preview
+    007. SQL Injection - Challenge Waklthrough  ->  https://drive.google.com/file/d/1UOu4woOWVoAihKCj_MFdSpEameO68V9-/preview
+    008. XSS - Introduction  ->  https://drive.google.com/file/d/1UzI4ZriH-MiTwFCxbfb0zxiSzB8jl55G/preview
+    009. XSS - DOM Lab  ->  https://drive.google.com/file/d/1TU5nK4s8IBfZHBxaUUKOld7fIvNGvCC4/preview
+    010. XSS - Stored Lab  ->  https://drive.google.com/file/d/1UPXK7Ao9u9zYwRxVMCJ1_uYCQRoOTF5O/preview
+    011. XSS - Challenge Walkthrough  ->  https://drive.google.com/file/d/1UbV5e_MQ056Ls0n7SEb61hj7LBhnF7Q1/preview
+    012. Command Injection - Introduction  ->  https://drive.google.com/file/d/1TmdW_DdBjuQOdkdYaAOkp1RVEyU7HL2S/preview
+    013. Command Injection - Basics  ->  https://drive.google.com/file/d/1V0rx62070SBGUd5fexo3U2Y-Dh191iHa/preview
+    014. Command Injection - Blind - Out-of-Band  ->  https://drive.google.com/file/d/1UTGphi7ndDwR9Tbl2jPlBQoDrTRNXwJC/preview
+    015. Command Injection - Challenge Walkthrough  ->  https://drive.google.com/file/d/1UETydfgEP4dUrlYxn4lC8MEKFBEdbLr3/preview
+    016. Insecure File Upload - Introduction  ->  https://drive.google.com/file/d/1TZP1MCZoavxYjXixrjyKPeTDndH768Um/preview
+    017. Insecure File Upload - Basic Bypass  ->  https://drive.google.com/file/d/1U55chXrX4-HK0HVtyqTy3r4ztycky-qp/preview
+    018. Insecure File Upload - Magic Bytes  ->  https://drive.google.com/file/d/1UvVhFk-UmDBp_cKzo4yxA4Y6TwAdXBV6/preview
+    019. Insecure File Upload - Challenge Walkthrough  ->  https://drive.google.com/file/d/1UkHq77yy7SmpvZdTDktaL1bp7Qu_R2oJ/preview
+    020. Attacking Authentication - Intro  ->  https://drive.google.com/file/d/1UVzfJ6HMIae533ebYBVBGl_OdhlaqZBu/preview
+    021. Attacking Authentication - Brute Force  ->  https://drive.google.com/file/d/1TfC4sd-GwFmsFJa2N_S6tB7AsNzvWB2g/preview
+    022. Attacking Authentication - MFA  ->  https://drive.google.com/file/d/1V5gEikIZ048_nJxg3P-6elP5QZ-y3xi3/preview
+    023. Attacking Authentication - Challenge Walkthrough  ->  https://drive.google.com/file/d/1U4gQDCojg-tVyJ_e34rJ_UvQyCWi3AhR/preview
+    024. XXE - External Entities Injection  ->  https://drive.google.com/file/d/1UTor0n9qcdWSCfVt8f0uduKXz3Fg19rT/preview
+    025. IDOR - Insecure Direct Object Reference  ->  https://drive.google.com/file/d/1U9-vt9t4oAVxIL7cxdfHzYBYMq3aUv7m/preview
+    026. Capstone - Introduction  ->  https://drive.google.com/file/d/1Uauqd55vK8VSA534R9GFnx2k17r_BKG9/preview
+    027. Capstone - Solution  ->  https://drive.google.com/file/d/1UaqYprITP_1sTwgdN2co7qiIzuBz2bCZ/preview
+
+23. Wireless Penetration Testing  [s23.html]
+    001. 001 Wireless Penetration Testing Overview  ->  https://drive.google.com/file/d/1NO0aj0pVVJsRb-AA1Ib4UTRvCGySxnZ_/preview
+    002. 002 WPA PS2 Exploit Walkthrough  ->  https://drive.google.com/file/d/1NHffl5EPa_tFVcfWXRnWNj5vf4GgDU41/preview
+
+24. Legal Documents and Report Writing  [s24.html]
+    001. 001 Common Legal Documents  ->  https://drive.google.com/file/d/1Q9XyMnFtuu3OlO8uisuznsWksboUcnR9/preview
+    002. 002 Pentest Report Writing  ->  https://drive.google.com/file/d/1P6YpPPOHJ8oBq4P1RAVWfMyWusL6FKsO/preview
+    003. 003 Reviewing a Real Pentest Report  ->  https://drive.google.com/file/d/1P5RBIYfYswejhdaCJ9n62m4vuGXRbhmX/preview
+
+25. Career Advice  [s25.html]
+    001. 001 Career Advice  ->  https://drive.google.com/file/d/1L7Rhow3HevYAl2BwYuLjJzZAx6U-yQ5G/preview

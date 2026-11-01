@@ -1,0 +1,1290 @@
+{
+  "name": "Practical Ethical Hacking",
+  "slug": "Practical_Ethical_Hacking",
+  "url": "https://LexCode30.github.io/Practical_Ethical_Hacking/",
+  "category": "cybersecurity",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Before We Begin",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "PNPT Certification Path Progression",
+          "id": "1Sujs7o1ZL4T2D7yt7l_7F9RAvkFCKo_K",
+          "anchor": "v-1Sujs7o1ZL4T2D7yt7l_7F9RAvkFCKo_K",
+          "href": "s1.html#v-1Sujs7o1ZL4T2D7yt7l_7F9RAvkFCKo_K"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Introduction",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Course Introduction",
+          "id": "1M_ZJR56vAP3fvqFnsLrJqEPQA49kHA13",
+          "anchor": "v-1M_ZJR56vAP3fvqFnsLrJqEPQA49kHA13",
+          "href": "s2.html#v-1M_ZJR56vAP3fvqFnsLrJqEPQA49kHA13"
+        },
+        {
+          "number": 2,
+          "title": "Course Discord Important",
+          "id": "1M_xHeZXc-FBiwBpI5rj9ZUug1azUaeDS",
+          "anchor": "v-1M_xHeZXc-FBiwBpI5rj9ZUug1azUaeDS",
+          "href": "s2.html#v-1M_xHeZXc-FBiwBpI5rj9ZUug1azUaeDS"
+        },
+        {
+          "number": 3,
+          "title": "A Day in the Life of an Ethical Hacker",
+          "id": "1Mc_JS_Ogvvf0XwsXtu59iHGBWF7h7dRD",
+          "anchor": "v-1Mc_JS_Ogvvf0XwsXtu59iHGBWF7h7dRD",
+          "href": "s2.html#v-1Mc_JS_Ogvvf0XwsXtu59iHGBWF7h7dRD"
+        },
+        {
+          "number": 4,
+          "title": "Why You Shouldn t Be An Ethical Hacker",
+          "id": "1MdLGvnngKKomNSrTdffPDt1DX22cSNu5",
+          "anchor": "v-1MdLGvnngKKomNSrTdffPDt1DX22cSNu5",
+          "href": "s2.html#v-1MdLGvnngKKomNSrTdffPDt1DX22cSNu5"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Notekeeping",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Effective Notekeeping",
+          "id": "1SgxvH3fqW-OtH1OagQNNBNyf7qh3fwlK",
+          "anchor": "v-1SgxvH3fqW-OtH1OagQNNBNyf7qh3fwlK",
+          "href": "s3.html#v-1SgxvH3fqW-OtH1OagQNNBNyf7qh3fwlK"
+        },
+        {
+          "number": 2,
+          "title": "Screenshots for the Win",
+          "id": "1SI7CSVmQ6sDNb6smOfDTCVPWVDFfmgj5",
+          "anchor": "v-1SI7CSVmQ6sDNb6smOfDTCVPWVDFfmgj5",
+          "href": "s3.html#v-1SI7CSVmQ6sDNb6smOfDTCVPWVDFfmgj5"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Networking Refresher",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1RmcFDnN1bBcrHgjvwS5q2QvCBORIe6ft",
+          "anchor": "v-1RmcFDnN1bBcrHgjvwS5q2QvCBORIe6ft",
+          "href": "s4.html#v-1RmcFDnN1bBcrHgjvwS5q2QvCBORIe6ft"
+        },
+        {
+          "number": 2,
+          "title": "IP Addresses",
+          "id": "1ScwmBq3Ky_Ilt9RM9SE0DfGj8wjjyWfj",
+          "anchor": "v-1ScwmBq3Ky_Ilt9RM9SE0DfGj8wjjyWfj",
+          "href": "s4.html#v-1ScwmBq3Ky_Ilt9RM9SE0DfGj8wjjyWfj"
+        },
+        {
+          "number": 3,
+          "title": "MAC Addresses",
+          "id": "1S6fN3IqshEy0qsGq1eOmpUuSqqlkNUpD",
+          "anchor": "v-1S6fN3IqshEy0qsGq1eOmpUuSqqlkNUpD",
+          "href": "s4.html#v-1S6fN3IqshEy0qsGq1eOmpUuSqqlkNUpD"
+        },
+        {
+          "number": 4,
+          "title": "TCP UDP and the Three-Way Handshake",
+          "id": "1Sa902v5HFi_CR8blmCxGevYCPBUIIkR6",
+          "anchor": "v-1Sa902v5HFi_CR8blmCxGevYCPBUIIkR6",
+          "href": "s4.html#v-1Sa902v5HFi_CR8blmCxGevYCPBUIIkR6"
+        },
+        {
+          "number": 5,
+          "title": "Common Ports and Protocols",
+          "id": "1SNt8jrHw3s8dx72iuBG88xlHrcyxsrzb",
+          "anchor": "v-1SNt8jrHw3s8dx72iuBG88xlHrcyxsrzb",
+          "href": "s4.html#v-1SNt8jrHw3s8dx72iuBG88xlHrcyxsrzb"
+        },
+        {
+          "number": 6,
+          "title": "The OSI Model",
+          "id": "1S4uAI417oKO8U7y-fPT6hE6X6QQWPNN7",
+          "anchor": "v-1S4uAI417oKO8U7y-fPT6hE6X6QQWPNN7",
+          "href": "s4.html#v-1S4uAI417oKO8U7y-fPT6hE6X6QQWPNN7"
+        },
+        {
+          "number": 7,
+          "title": "Subnetting Part 1",
+          "id": "1S7gj7HnAv0y_A3Mi_3k3ozyYUUUDlayg",
+          "anchor": "v-1S7gj7HnAv0y_A3Mi_3k3ozyYUUUDlayg",
+          "href": "s4.html#v-1S7gj7HnAv0y_A3Mi_3k3ozyYUUUDlayg"
+        },
+        {
+          "number": 8,
+          "title": "Subnetting Part 2",
+          "id": "1Sbg5QPT3pJpF_ithJB65XDVWznRTmsXZ",
+          "anchor": "v-1Sbg5QPT3pJpF_ithJB65XDVWznRTmsXZ",
+          "href": "s4.html#v-1Sbg5QPT3pJpF_ithJB65XDVWznRTmsXZ"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Setting Up Our Lab",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Installing VMWare - VirtualBox",
+          "id": "1JTs8d_b3qIdD-_ZgllboQ4Pi8mn6-soH",
+          "anchor": "v-1JTs8d_b3qIdD-_ZgllboQ4Pi8mn6-soH",
+          "href": "s5.html#v-1JTs8d_b3qIdD-_ZgllboQ4Pi8mn6-soH"
+        },
+        {
+          "number": 2,
+          "title": "Configuring VirtualBox",
+          "id": "1JSIPStoDuE0CdoVFDPGtWbWvLx8p-9zI",
+          "anchor": "v-1JSIPStoDuE0CdoVFDPGtWbWvLx8p-9zI",
+          "href": "s5.html#v-1JSIPStoDuE0CdoVFDPGtWbWvLx8p-9zI"
+        },
+        {
+          "number": 3,
+          "title": "Installing Kali Linux",
+          "id": "1JUD0FeYcBltHpTL2B67ClQW7vZY_lA4p",
+          "anchor": "v-1JUD0FeYcBltHpTL2B67ClQW7vZY_lA4p",
+          "href": "s5.html#v-1JUD0FeYcBltHpTL2B67ClQW7vZY_lA4p"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "The Ethical Hacker Methodology",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "The Five Stages of Ethical Hacking",
+          "id": "1I1CfmXFQ13a90206KEY1XCsni3hSVN2i",
+          "anchor": "v-1I1CfmXFQ13a90206KEY1XCsni3hSVN2i",
+          "href": "s6.html#v-1I1CfmXFQ13a90206KEY1XCsni3hSVN2i"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Information Gathering Reconnaissance",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Passive Reconnaissance Overview",
+          "id": "1J_JXa4zWvdcF-QIh2g77iL7K215jtuSK",
+          "anchor": "v-1J_JXa4zWvdcF-QIh2g77iL7K215jtuSK",
+          "href": "s7.html#v-1J_JXa4zWvdcF-QIh2g77iL7K215jtuSK"
+        },
+        {
+          "number": 2,
+          "title": "Identifying Our Target",
+          "id": "1JVWpM23tzkP_nuR56kJw0S-VdRpN4Hxa",
+          "anchor": "v-1JVWpM23tzkP_nuR56kJw0S-VdRpN4Hxa",
+          "href": "s7.html#v-1JVWpM23tzkP_nuR56kJw0S-VdRpN4Hxa"
+        },
+        {
+          "number": 3,
+          "title": "Discovering Email Addresses",
+          "id": "1Jco1HHc4vOrh_XTDu7S0CJMqy5SIZqqG",
+          "anchor": "v-1Jco1HHc4vOrh_XTDu7S0CJMqy5SIZqqG",
+          "href": "s7.html#v-1Jco1HHc4vOrh_XTDu7S0CJMqy5SIZqqG"
+        },
+        {
+          "number": 4,
+          "title": "Gathering Breached Credentials with Breach-Parse",
+          "id": "1Ji0MGcBEsnYsP0FFMLQVpX5fjL3Hx01M",
+          "anchor": "v-1Ji0MGcBEsnYsP0FFMLQVpX5fjL3Hx01M",
+          "href": "s7.html#v-1Ji0MGcBEsnYsP0FFMLQVpX5fjL3Hx01M"
+        },
+        {
+          "number": 5,
+          "title": "Hunting Breached Credentials with DeHashed",
+          "id": "1Jbs8aj7wLtWWsYUBdB-wgKbeBwJA7-QF",
+          "anchor": "v-1Jbs8aj7wLtWWsYUBdB-wgKbeBwJA7-QF",
+          "href": "s7.html#v-1Jbs8aj7wLtWWsYUBdB-wgKbeBwJA7-QF"
+        },
+        {
+          "number": 6,
+          "title": "Hunting Subdomains Part 1",
+          "id": "1KVgsQ2vJlmrrGbWI-RvsOtwhDOH6cl6h",
+          "anchor": "v-1KVgsQ2vJlmrrGbWI-RvsOtwhDOH6cl6h",
+          "href": "s7.html#v-1KVgsQ2vJlmrrGbWI-RvsOtwhDOH6cl6h"
+        },
+        {
+          "number": 7,
+          "title": "Hunting Subdomains Part 2",
+          "id": "1JVzNr1EEPQT1BCRupfjTVec9LIBnR3LY",
+          "anchor": "v-1JVzNr1EEPQT1BCRupfjTVec9LIBnR3LY",
+          "href": "s7.html#v-1JVzNr1EEPQT1BCRupfjTVec9LIBnR3LY"
+        },
+        {
+          "number": 8,
+          "title": "Identifying Website Technologies",
+          "id": "1KZXEVlYHRKynD3KE1hkRMssTRWbm5Wwq",
+          "anchor": "v-1KZXEVlYHRKynD3KE1hkRMssTRWbm5Wwq",
+          "href": "s7.html#v-1KZXEVlYHRKynD3KE1hkRMssTRWbm5Wwq"
+        },
+        {
+          "number": 9,
+          "title": "Information Gathering with Burp Suite",
+          "id": "1JkBTrXOOcDcS9vAUktsMvf1f03Qma0-n",
+          "anchor": "v-1JkBTrXOOcDcS9vAUktsMvf1f03Qma0-n",
+          "href": "s7.html#v-1JkBTrXOOcDcS9vAUktsMvf1f03Qma0-n"
+        },
+        {
+          "number": 10,
+          "title": "Google Fu",
+          "id": "1JuHisRyLFh0OxXQaldVku92TfSUypeFs",
+          "anchor": "v-1JuHisRyLFh0OxXQaldVku92TfSUypeFs",
+          "href": "s7.html#v-1JuHisRyLFh0OxXQaldVku92TfSUypeFs"
+        },
+        {
+          "number": 11,
+          "title": "Utilizing Social Media",
+          "id": "1KGJBbTicVtu-AaCUq2zaDJDPrnkyueaB",
+          "anchor": "v-1KGJBbTicVtu-AaCUq2zaDJDPrnkyueaB",
+          "href": "s7.html#v-1KGJBbTicVtu-AaCUq2zaDJDPrnkyueaB"
+        },
+        {
+          "number": 12,
+          "title": "Additional Learning OSINT Fundamentals",
+          "id": "1JXhoYCPkr-8vWFLUnyVHG-sQ5l6fPPDF",
+          "anchor": "v-1JXhoYCPkr-8vWFLUnyVHG-sQ5l6fPPDF",
+          "href": "s7.html#v-1JXhoYCPkr-8vWFLUnyVHG-sQ5l6fPPDF"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Scanning & Enumeration",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Installing Kioptrix",
+          "id": "1ITVmVRYmBh4lOOA2ibrQ64g0ocAYEV7s",
+          "anchor": "v-1ITVmVRYmBh4lOOA2ibrQ64g0ocAYEV7s",
+          "href": "s8.html#v-1ITVmVRYmBh4lOOA2ibrQ64g0ocAYEV7s"
+        },
+        {
+          "number": 2,
+          "title": "Scanning with Nmap",
+          "id": "1IxV4z3PMPYAZ56SMYEE8PHDpx4kt_bY4",
+          "anchor": "v-1IxV4z3PMPYAZ56SMYEE8PHDpx4kt_bY4",
+          "href": "s8.html#v-1IxV4z3PMPYAZ56SMYEE8PHDpx4kt_bY4"
+        },
+        {
+          "number": 3,
+          "title": "Enumerating HTTP and HTTPS Part 1",
+          "id": "1I5QPuaDjhvEY6tHsDd_pkdpz_bwRVvFD",
+          "anchor": "v-1I5QPuaDjhvEY6tHsDd_pkdpz_bwRVvFD",
+          "href": "s8.html#v-1I5QPuaDjhvEY6tHsDd_pkdpz_bwRVvFD"
+        },
+        {
+          "number": 4,
+          "title": "Enumerating HTTP and HTTPS Part 2",
+          "id": "1IIe-HYOdY6lxOdnDeuoKF-YXeykTRFB5",
+          "anchor": "v-1IIe-HYOdY6lxOdnDeuoKF-YXeykTRFB5",
+          "href": "s8.html#v-1IIe-HYOdY6lxOdnDeuoKF-YXeykTRFB5"
+        },
+        {
+          "number": 5,
+          "title": "Enumerating SMB",
+          "id": "1I4Q2EE_a9idFNTfwtRC-FOZmWdgMGc82",
+          "anchor": "v-1I4Q2EE_a9idFNTfwtRC-FOZmWdgMGc82",
+          "href": "s8.html#v-1I4Q2EE_a9idFNTfwtRC-FOZmWdgMGc82"
+        },
+        {
+          "number": 6,
+          "title": "Enumerating SSH",
+          "id": "1IeJ1D3zi2KWaVFBda2wuM-2EeC3FnItw",
+          "anchor": "v-1IeJ1D3zi2KWaVFBda2wuM-2EeC3FnItw",
+          "href": "s8.html#v-1IeJ1D3zi2KWaVFBda2wuM-2EeC3FnItw"
+        },
+        {
+          "number": 7,
+          "title": "Researching Potential Vulnerabilities",
+          "id": "1I9VePNQGw0xV_DgW6XzGn5q0m5ULE7Xn",
+          "anchor": "v-1I9VePNQGw0xV_DgW6XzGn5q0m5ULE7Xn",
+          "href": "s8.html#v-1I9VePNQGw0xV_DgW6XzGn5q0m5ULE7Xn"
+        },
+        {
+          "number": 8,
+          "title": "Our Notes So Far",
+          "id": "1I-PtVctL5U86rfaEb8EXOjhuQ0kc08dl",
+          "anchor": "v-1I-PtVctL5U86rfaEb8EXOjhuQ0kc08dl",
+          "href": "s8.html#v-1I-PtVctL5U86rfaEb8EXOjhuQ0kc08dl"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Vulnerability Scanning with Nessus",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Scanning with Nessus Part 1",
+          "id": "1V9EApHpuy8cbudqIF9g6a0viTRT44axf",
+          "anchor": "v-1V9EApHpuy8cbudqIF9g6a0viTRT44axf",
+          "href": "s9.html#v-1V9EApHpuy8cbudqIF9g6a0viTRT44axf"
+        },
+        {
+          "number": 2,
+          "title": "Scanning with Nessus Part 2",
+          "id": "1VCuGMcgjz8PpyFDSbVjCQTH4XBfx0-07",
+          "anchor": "v-1VCuGMcgjz8PpyFDSbVjCQTH4XBfx0-07",
+          "href": "s9.html#v-1VCuGMcgjz8PpyFDSbVjCQTH4XBfx0-07"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Exploitation Basics",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Reverse Shells vs Bind Shells",
+          "id": "1RjY6jrhup0NunyNb4yCmdYuQ1HbUfTQM",
+          "anchor": "v-1RjY6jrhup0NunyNb4yCmdYuQ1HbUfTQM",
+          "href": "s10.html#v-1RjY6jrhup0NunyNb4yCmdYuQ1HbUfTQM"
+        },
+        {
+          "number": 2,
+          "title": "Staged vs Non-Staged Payloads",
+          "id": "1RD4dXDZ7dAZWDJFDWkzLyhBHDrojiTM6",
+          "anchor": "v-1RD4dXDZ7dAZWDJFDWkzLyhBHDrojiTM6",
+          "href": "s10.html#v-1RD4dXDZ7dAZWDJFDWkzLyhBHDrojiTM6"
+        },
+        {
+          "number": 3,
+          "title": "Gaining Root with Metasploit",
+          "id": "1RiqUs5pHmGF_dQR4a9ssJ6jUmG8lT9sz",
+          "anchor": "v-1RiqUs5pHmGF_dQR4a9ssJ6jUmG8lT9sz",
+          "href": "s10.html#v-1RiqUs5pHmGF_dQR4a9ssJ6jUmG8lT9sz"
+        },
+        {
+          "number": 4,
+          "title": "Manual Exploitation",
+          "id": "1RfvTMXG8ADZIvRVY06e2Pp7YEVCIUGGL",
+          "anchor": "v-1RfvTMXG8ADZIvRVY06e2Pp7YEVCIUGGL",
+          "href": "s10.html#v-1RfvTMXG8ADZIvRVY06e2Pp7YEVCIUGGL"
+        },
+        {
+          "number": 5,
+          "title": "Brute Force Attacks",
+          "id": "1RjgdRMxGBNp_iL-3NCJgGfxzNhOncn5p",
+          "anchor": "v-1RjgdRMxGBNp_iL-3NCJgGfxzNhOncn5p",
+          "href": "s10.html#v-1RjgdRMxGBNp_iL-3NCJgGfxzNhOncn5p"
+        },
+        {
+          "number": 6,
+          "title": "Credential Stuffing and Password Spraying",
+          "id": "1ROlLtf0g4Ep3maWCxrqQBfORFEMn6pZC",
+          "anchor": "v-1ROlLtf0g4Ep3maWCxrqQBfORFEMn6pZC",
+          "href": "s10.html#v-1ROlLtf0g4Ep3maWCxrqQBfORFEMn6pZC"
+        },
+        {
+          "number": 7,
+          "title": "Our Notes Revisited",
+          "id": "1RDNoXWdpEBhzBq13B2inGVimCecIkUUZ",
+          "anchor": "v-1RDNoXWdpEBhzBq13B2inGVimCecIkUUZ",
+          "href": "s10.html#v-1RDNoXWdpEBhzBq13B2inGVimCecIkUUZ"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "New Capstone",
+      "page": "s11.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1JF-mu0wqwihAkGgNsrlKq85Oz4wAwgaS",
+          "anchor": "v-1JF-mu0wqwihAkGgNsrlKq85Oz4wAwgaS",
+          "href": "s11.html#v-1JF-mu0wqwihAkGgNsrlKq85Oz4wAwgaS"
+        },
+        {
+          "number": 2,
+          "title": "Set Up - Blue",
+          "id": "1Id5IYl9x7rT61ifkEy6XM6h29nSzUBA9",
+          "anchor": "v-1Id5IYl9x7rT61ifkEy6XM6h29nSzUBA9",
+          "href": "s11.html#v-1Id5IYl9x7rT61ifkEy6XM6h29nSzUBA9"
+        },
+        {
+          "number": 3,
+          "title": "Walkthrough - Blue",
+          "id": "1Hh0LXsPJKtKCHPLUh7BqP3j-F7D9WSK3",
+          "anchor": "v-1Hh0LXsPJKtKCHPLUh7BqP3j-F7D9WSK3",
+          "href": "s11.html#v-1Hh0LXsPJKtKCHPLUh7BqP3j-F7D9WSK3"
+        },
+        {
+          "number": 4,
+          "title": "Set Up - Academy",
+          "id": "1HpJf4OQTEyXSRlOQ1d1MZjo_1BlTDABr",
+          "anchor": "v-1HpJf4OQTEyXSRlOQ1d1MZjo_1BlTDABr",
+          "href": "s11.html#v-1HpJf4OQTEyXSRlOQ1d1MZjo_1BlTDABr"
+        },
+        {
+          "number": 5,
+          "title": "Walkthrough - Academy",
+          "id": "1HVrIxipNu4c5sbSgpkWO_N5ffPZFcnmj",
+          "anchor": "v-1HVrIxipNu4c5sbSgpkWO_N5ffPZFcnmj",
+          "href": "s11.html#v-1HVrIxipNu4c5sbSgpkWO_N5ffPZFcnmj"
+        },
+        {
+          "number": 6,
+          "title": "Walkthrough - Dev",
+          "id": "1HdiCy3MayQdCx_iHb0LLosMeeNnl5iw9",
+          "anchor": "v-1HdiCy3MayQdCx_iHb0LLosMeeNnl5iw9",
+          "href": "s11.html#v-1HdiCy3MayQdCx_iHb0LLosMeeNnl5iw9"
+        },
+        {
+          "number": 7,
+          "title": "Walkthrough - Butler",
+          "id": "1J3Y3UYXOT7RRZWek8N1y8lffitLYC-zd",
+          "anchor": "v-1J3Y3UYXOT7RRZWek8N1y8lffitLYC-zd",
+          "href": "s11.html#v-1J3Y3UYXOT7RRZWek8N1y8lffitLYC-zd"
+        },
+        {
+          "number": 8,
+          "title": "Walkthrough - Blackpearl",
+          "id": "1HlCRgyzHySHzkBfenpqwkkBNmdyNZZIy",
+          "anchor": "v-1HlCRgyzHySHzkBfenpqwkkBNmdyNZZIy",
+          "href": "s11.html#v-1HlCRgyzHySHzkBfenpqwkkBNmdyNZZIy"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Active Directory Overview",
+      "page": "s12.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Active Directory Overview",
+          "id": "1TXEVBBz1CdJS5goMaeSSU7LMnrBrU97c",
+          "anchor": "v-1TXEVBBz1CdJS5goMaeSSU7LMnrBrU97c",
+          "href": "s12.html#v-1TXEVBBz1CdJS5goMaeSSU7LMnrBrU97c"
+        },
+        {
+          "number": 2,
+          "title": "Physical Active Directory Components",
+          "id": "1TWATalfKwXMqGlbIdfFRvuVV1KE0T53i",
+          "anchor": "v-1TWATalfKwXMqGlbIdfFRvuVV1KE0T53i",
+          "href": "s12.html#v-1TWATalfKwXMqGlbIdfFRvuVV1KE0T53i"
+        },
+        {
+          "number": 3,
+          "title": "Logical Active Directory Components",
+          "id": "1Tbi8tV0JrgSulK2K1TV9ZjDgRoXsm6XN",
+          "anchor": "v-1Tbi8tV0JrgSulK2K1TV9ZjDgRoXsm6XN",
+          "href": "s12.html#v-1Tbi8tV0JrgSulK2K1TV9ZjDgRoXsm6XN"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Active Directory Lab Build",
+      "page": "s13.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Lab Overview and Requirements",
+          "id": "1OX0pI9V4zFez0Cl781Kn7d1fvlPTgiDI",
+          "anchor": "v-1OX0pI9V4zFez0Cl781Kn7d1fvlPTgiDI",
+          "href": "s13.html#v-1OX0pI9V4zFez0Cl781Kn7d1fvlPTgiDI"
+        },
+        {
+          "number": 2,
+          "title": "Lab Build - Cloud Alternative",
+          "id": "1Ol_T1kLiXJwb0-W0osHo2svrvfEDRHae",
+          "anchor": "v-1Ol_T1kLiXJwb0-W0osHo2svrvfEDRHae",
+          "href": "s13.html#v-1Ol_T1kLiXJwb0-W0osHo2svrvfEDRHae"
+        },
+        {
+          "number": 3,
+          "title": "Downloading Necessary ISOs",
+          "id": "1ObqZiuQ8yaAJbx76JwSNPBpN7vc0HwfM",
+          "anchor": "v-1ObqZiuQ8yaAJbx76JwSNPBpN7vc0HwfM",
+          "href": "s13.html#v-1ObqZiuQ8yaAJbx76JwSNPBpN7vc0HwfM"
+        },
+        {
+          "number": 4,
+          "title": "Setting Up the Domain Controller",
+          "id": "1Owl3FtbZJISOCWoLkugg4VTLA3eSzrIr",
+          "anchor": "v-1Owl3FtbZJISOCWoLkugg4VTLA3eSzrIr",
+          "href": "s13.html#v-1Owl3FtbZJISOCWoLkugg4VTLA3eSzrIr"
+        },
+        {
+          "number": 5,
+          "title": "Setting Up the User Machines",
+          "id": "1OsprEt3gYFfiw9Px7ZLMsRx7TkStPwF3",
+          "anchor": "v-1OsprEt3gYFfiw9Px7ZLMsRx7TkStPwF3",
+          "href": "s13.html#v-1OsprEt3gYFfiw9Px7ZLMsRx7TkStPwF3"
+        },
+        {
+          "number": 6,
+          "title": "Setting Up Users Groups and Policies",
+          "id": "1OkOCbuUfs_qOfY4uSJnw1Rr0P5SMk6tV",
+          "anchor": "v-1OkOCbuUfs_qOfY4uSJnw1Rr0P5SMk6tV",
+          "href": "s13.html#v-1OkOCbuUfs_qOfY4uSJnw1Rr0P5SMk6tV"
+        },
+        {
+          "number": 7,
+          "title": "Joining Our Machines to the Domain",
+          "id": "1OgPJZ4MTR-R4h_OCLAuGQbRaG7JkD5e7",
+          "anchor": "v-1OgPJZ4MTR-R4h_OCLAuGQbRaG7JkD5e7",
+          "href": "s13.html#v-1OgPJZ4MTR-R4h_OCLAuGQbRaG7JkD5e7"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Attacking Active Directory Initial Attack Vectors",
+      "page": "s14.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1KZtoayBCpkhtivhR90ch73ohaCzgiVde",
+          "anchor": "v-1KZtoayBCpkhtivhR90ch73ohaCzgiVde",
+          "href": "s14.html#v-1KZtoayBCpkhtivhR90ch73ohaCzgiVde"
+        },
+        {
+          "number": 2,
+          "title": "LLMNR Poisoning Overview",
+          "id": "1LMaRhr2dKjGhslAC2-E-RrXZuOZtIeQ9",
+          "anchor": "v-1LMaRhr2dKjGhslAC2-E-RrXZuOZtIeQ9",
+          "href": "s14.html#v-1LMaRhr2dKjGhslAC2-E-RrXZuOZtIeQ9"
+        },
+        {
+          "number": 3,
+          "title": "Capturing Hashes with Responder",
+          "id": "1LXLLdtcwrdoUmtNPece3fnFl4ohDeX7c",
+          "anchor": "v-1LXLLdtcwrdoUmtNPece3fnFl4ohDeX7c",
+          "href": "s14.html#v-1LXLLdtcwrdoUmtNPece3fnFl4ohDeX7c"
+        },
+        {
+          "number": 4,
+          "title": "Cracking Our Captured Hashes",
+          "id": "1LfW3ajur74YhBMEiHbYqrB52Fffavz31",
+          "anchor": "v-1LfW3ajur74YhBMEiHbYqrB52Fffavz31",
+          "href": "s14.html#v-1LfW3ajur74YhBMEiHbYqrB52Fffavz31"
+        },
+        {
+          "number": 5,
+          "title": "LLMNR Poisoning Mitigation",
+          "id": "1LCt_mWT9lkl7A6hqF7tkfCB-pIMxfelW",
+          "anchor": "v-1LCt_mWT9lkl7A6hqF7tkfCB-pIMxfelW",
+          "href": "s14.html#v-1LCt_mWT9lkl7A6hqF7tkfCB-pIMxfelW"
+        },
+        {
+          "number": 6,
+          "title": "SMB Relay Attacks Overview",
+          "id": "1LOjIseFawSjm0UArY2WJdxIRg58z_wnM",
+          "anchor": "v-1LOjIseFawSjm0UArY2WJdxIRg58z_wnM",
+          "href": "s14.html#v-1LOjIseFawSjm0UArY2WJdxIRg58z_wnM"
+        },
+        {
+          "number": 7,
+          "title": "SMB Relay Attacks Lab",
+          "id": "1LP_FX6dPOW3gtKFX9U5zLKBvX5jdHhOT",
+          "anchor": "v-1LP_FX6dPOW3gtKFX9U5zLKBvX5jdHhOT",
+          "href": "s14.html#v-1LP_FX6dPOW3gtKFX9U5zLKBvX5jdHhOT"
+        },
+        {
+          "number": 8,
+          "title": "SMB Relay Attack Defenses",
+          "id": "1LFAdlWBnWVXwZwiCleP_VGU5wFxprysJ",
+          "anchor": "v-1LFAdlWBnWVXwZwiCleP_VGU5wFxprysJ",
+          "href": "s14.html#v-1LFAdlWBnWVXwZwiCleP_VGU5wFxprysJ"
+        },
+        {
+          "number": 9,
+          "title": "Gaining Shell Access",
+          "id": "1LZVkSOm53d-UzkbROGJPGOJ_AY7q97Bk",
+          "anchor": "v-1LZVkSOm53d-UzkbROGJPGOJ_AY7q97Bk",
+          "href": "s14.html#v-1LZVkSOm53d-UzkbROGJPGOJ_AY7q97Bk"
+        },
+        {
+          "number": 10,
+          "title": "IPv6 Attacks Overview",
+          "id": "1KiC7QRCHv9cUhGUaVtoU8jh8chdXFObw",
+          "anchor": "v-1KiC7QRCHv9cUhGUaVtoU8jh8chdXFObw",
+          "href": "s14.html#v-1KiC7QRCHv9cUhGUaVtoU8jh8chdXFObw"
+        },
+        {
+          "number": 11,
+          "title": "IPv6 DNS Takeover via mitm6",
+          "id": "1LGExlm8ZrL6q4v3LGG9B_YATRt0dFAF1",
+          "anchor": "v-1LGExlm8ZrL6q4v3LGG9B_YATRt0dFAF1",
+          "href": "s14.html#v-1LGExlm8ZrL6q4v3LGG9B_YATRt0dFAF1"
+        },
+        {
+          "number": 12,
+          "title": "IPv6 Attack Defenses",
+          "id": "1KmuB0A4opf5YIFg3946PVvRoF_D7zLsl",
+          "anchor": "v-1KmuB0A4opf5YIFg3946PVvRoF_D7zLsl",
+          "href": "s14.html#v-1KmuB0A4opf5YIFg3946PVvRoF_D7zLsl"
+        },
+        {
+          "number": 13,
+          "title": "Passback Attacks",
+          "id": "1LCDC0Yk0UW_mpdycZcwzlLKzDYW1bFfP",
+          "anchor": "v-1LCDC0Yk0UW_mpdycZcwzlLKzDYW1bFfP",
+          "href": "s14.html#v-1LCDC0Yk0UW_mpdycZcwzlLKzDYW1bFfP"
+        },
+        {
+          "number": 14,
+          "title": "Initial Internal Attack Strategy",
+          "id": "1LYRazkJ0TUlHg0WWGKMihWetBmzC-KxC",
+          "anchor": "v-1LYRazkJ0TUlHg0WWGKMihWetBmzC-KxC",
+          "href": "s14.html#v-1LYRazkJ0TUlHg0WWGKMihWetBmzC-KxC"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Attacking Active Directory Post-Compromise Enumeration",
+      "page": "s15.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1S1Ad6ZhbqWm67nkX79LPQcm1nK9kM7bW",
+          "anchor": "v-1S1Ad6ZhbqWm67nkX79LPQcm1nK9kM7bW",
+          "href": "s15.html#v-1S1Ad6ZhbqWm67nkX79LPQcm1nK9kM7bW"
+        },
+        {
+          "number": 2,
+          "title": "Domain Enumeration with ldapdomaindump",
+          "id": "1RnD5C7CJxtCSZrFRZ5z9avOL5Lm4fTqn",
+          "anchor": "v-1RnD5C7CJxtCSZrFRZ5z9avOL5Lm4fTqn",
+          "href": "s15.html#v-1RnD5C7CJxtCSZrFRZ5z9avOL5Lm4fTqn"
+        },
+        {
+          "number": 3,
+          "title": "Domain Enumeration with Bloodhound",
+          "id": "1Rw4blVxefWRwZuhifAhfgCX93adIliiT",
+          "anchor": "v-1Rw4blVxefWRwZuhifAhfgCX93adIliiT",
+          "href": "s15.html#v-1Rw4blVxefWRwZuhifAhfgCX93adIliiT"
+        },
+        {
+          "number": 4,
+          "title": "Domain Enumeration with Plumhound",
+          "id": "1RjsHsxbJ1Re9RLeEKzy6xFYgXIX-uHVS",
+          "anchor": "v-1RjsHsxbJ1Re9RLeEKzy6xFYgXIX-uHVS",
+          "href": "s15.html#v-1RjsHsxbJ1Re9RLeEKzy6xFYgXIX-uHVS"
+        },
+        {
+          "number": 5,
+          "title": "Domain Enumeration with PingCastle",
+          "id": "1S3VPFdbasldOmzmPDgVAtFkXrGtpVNaP",
+          "anchor": "v-1S3VPFdbasldOmzmPDgVAtFkXrGtpVNaP",
+          "href": "s15.html#v-1S3VPFdbasldOmzmPDgVAtFkXrGtpVNaP"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Attacking Active Directory Post-Compromise Attacks",
+      "page": "s16.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1NpKm24F98cVzgQPBDJp-urPHvEgT-N7c",
+          "anchor": "v-1NpKm24F98cVzgQPBDJp-urPHvEgT-N7c",
+          "href": "s16.html#v-1NpKm24F98cVzgQPBDJp-urPHvEgT-N7c"
+        },
+        {
+          "number": 2,
+          "title": "Pass Attacks Overview",
+          "id": "1O-vSk_QYepV66hh0Mklu_pzEwFIdZ5ca",
+          "anchor": "v-1O-vSk_QYepV66hh0Mklu_pzEwFIdZ5ca",
+          "href": "s16.html#v-1O-vSk_QYepV66hh0Mklu_pzEwFIdZ5ca"
+        },
+        {
+          "number": 3,
+          "title": "Pass Attacks",
+          "id": "1OU1VBK8gIeOhy5cSYX9UcD11Epn6No4o",
+          "anchor": "v-1OU1VBK8gIeOhy5cSYX9UcD11Epn6No4o",
+          "href": "s16.html#v-1OU1VBK8gIeOhy5cSYX9UcD11Epn6No4o"
+        },
+        {
+          "number": 4,
+          "title": "Dumping and Cracking Hashes",
+          "id": "1OIIqcWU59myRWd9nmqGNrjfMu_ty3-5k",
+          "anchor": "v-1OIIqcWU59myRWd9nmqGNrjfMu_ty3-5k",
+          "href": "s16.html#v-1OIIqcWU59myRWd9nmqGNrjfMu_ty3-5k"
+        },
+        {
+          "number": 5,
+          "title": "Pass Attack Mitigations",
+          "id": "1NzGMyfwS2Uo1qSAZH2glA0AlrNBLXwmJ",
+          "anchor": "v-1NzGMyfwS2Uo1qSAZH2glA0AlrNBLXwmJ",
+          "href": "s16.html#v-1NzGMyfwS2Uo1qSAZH2glA0AlrNBLXwmJ"
+        },
+        {
+          "number": 6,
+          "title": "Kerberoasting Overview",
+          "id": "1N_-LSwW1-R9SojQZb4KlB3liNCyrN8EH",
+          "anchor": "v-1N_-LSwW1-R9SojQZb4KlB3liNCyrN8EH",
+          "href": "s16.html#v-1N_-LSwW1-R9SojQZb4KlB3liNCyrN8EH"
+        },
+        {
+          "number": 7,
+          "title": "Kerberoasting Walkthrough",
+          "id": "1O8SgpNGpw_EUxivdw4inpffzlUXDkS4o",
+          "anchor": "v-1O8SgpNGpw_EUxivdw4inpffzlUXDkS4o",
+          "href": "s16.html#v-1O8SgpNGpw_EUxivdw4inpffzlUXDkS4o"
+        },
+        {
+          "number": 8,
+          "title": "Kerberoasting Mitigation",
+          "id": "1NZxSKZ4SPlmp09ni8XFZ-tARc1gwwfkX",
+          "anchor": "v-1NZxSKZ4SPlmp09ni8XFZ-tARc1gwwfkX",
+          "href": "s16.html#v-1NZxSKZ4SPlmp09ni8XFZ-tARc1gwwfkX"
+        },
+        {
+          "number": 9,
+          "title": "Token Impersonation Overview",
+          "id": "1ObR5eNpMJBRpDsgAgY2N3TdL5wmOQDS3",
+          "anchor": "v-1ObR5eNpMJBRpDsgAgY2N3TdL5wmOQDS3",
+          "href": "s16.html#v-1ObR5eNpMJBRpDsgAgY2N3TdL5wmOQDS3"
+        },
+        {
+          "number": 10,
+          "title": "Token Impersonation Walkthrough",
+          "id": "1O1urDc2xfK4M2gURF61C2pf0a84eOvmi",
+          "anchor": "v-1O1urDc2xfK4M2gURF61C2pf0a84eOvmi",
+          "href": "s16.html#v-1O1urDc2xfK4M2gURF61C2pf0a84eOvmi"
+        },
+        {
+          "number": 11,
+          "title": "Token Impersonation Mitigation",
+          "id": "1Nt0cxHhnSuXkYrbftVSnMq14dXWce3_f",
+          "anchor": "v-1Nt0cxHhnSuXkYrbftVSnMq14dXWce3_f",
+          "href": "s16.html#v-1Nt0cxHhnSuXkYrbftVSnMq14dXWce3_f"
+        },
+        {
+          "number": 12,
+          "title": "LNK File Attacks",
+          "id": "1O3zSEQ0aOOwlbqsXoMBmnI6r4su-DONa",
+          "anchor": "v-1O3zSEQ0aOOwlbqsXoMBmnI6r4su-DONa",
+          "href": "s16.html#v-1O3zSEQ0aOOwlbqsXoMBmnI6r4su-DONa"
+        },
+        {
+          "number": 13,
+          "title": "GPP - cPassword Attacks and Mitigations",
+          "id": "1NsSsOZGAiSf6VC72aHmbdVgCphYnV6DG",
+          "anchor": "v-1NsSsOZGAiSf6VC72aHmbdVgCphYnV6DG",
+          "href": "s16.html#v-1NsSsOZGAiSf6VC72aHmbdVgCphYnV6DG"
+        },
+        {
+          "number": 14,
+          "title": "Mimikatz Overview",
+          "id": "1O-uo3CPmAVa8xCD14ASWOmJ3dV45huBt",
+          "anchor": "v-1O-uo3CPmAVa8xCD14ASWOmJ3dV45huBt",
+          "href": "s16.html#v-1O-uo3CPmAVa8xCD14ASWOmJ3dV45huBt"
+        },
+        {
+          "number": 15,
+          "title": "Credential Dumping with Mimikatz",
+          "id": "1OS-PaM5hkV6DKilp2qBpWWUSxcdcuEyo",
+          "anchor": "v-1OS-PaM5hkV6DKilp2qBpWWUSxcdcuEyo",
+          "href": "s16.html#v-1OS-PaM5hkV6DKilp2qBpWWUSxcdcuEyo"
+        },
+        {
+          "number": 16,
+          "title": "Post-Compromise Attack Strategy",
+          "id": "1OHFZD-2afrk0tPzpqQZnMWEoCf51etK9",
+          "anchor": "v-1OHFZD-2afrk0tPzpqQZnMWEoCf51etK9",
+          "href": "s16.html#v-1OHFZD-2afrk0tPzpqQZnMWEoCf51etK9"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "We ve Compromised the Domain - Now What",
+      "page": "s17.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Post-Domain Compromise Attack Strategy",
+          "id": "1MJN6ZfCLQVfcLnD0fnRCd46JSC2c2MEm",
+          "anchor": "v-1MJN6ZfCLQVfcLnD0fnRCd46JSC2c2MEm",
+          "href": "s17.html#v-1MJN6ZfCLQVfcLnD0fnRCd46JSC2c2MEm"
+        },
+        {
+          "number": 2,
+          "title": "Dumping the NTDS.dit",
+          "id": "1MXAkMq_n-WwlSnBBw5Deqd542oR9-ey5",
+          "anchor": "v-1MXAkMq_n-WwlSnBBw5Deqd542oR9-ey5",
+          "href": "s17.html#v-1MXAkMq_n-WwlSnBBw5Deqd542oR9-ey5"
+        },
+        {
+          "number": 3,
+          "title": "Golden Ticket Attacks Overview",
+          "id": "1M9GIXN9xUtnGsO6Dd53ua7tB984P5rm3",
+          "anchor": "v-1M9GIXN9xUtnGsO6Dd53ua7tB984P5rm3",
+          "href": "s17.html#v-1M9GIXN9xUtnGsO6Dd53ua7tB984P5rm3"
+        },
+        {
+          "number": 4,
+          "title": "Golden Ticket Attacks",
+          "id": "1M0flxbN91XFi_aG8QztOZbo4JRur1FBe",
+          "anchor": "v-1M0flxbN91XFi_aG8QztOZbo4JRur1FBe",
+          "href": "s17.html#v-1M0flxbN91XFi_aG8QztOZbo4JRur1FBe"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Additional Active Directory Attacks",
+      "page": "s18.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Section Overview",
+          "id": "1SVbikZ-KY474Ae1ovawegCqnVf26_GgS",
+          "anchor": "v-1SVbikZ-KY474Ae1ovawegCqnVf26_GgS",
+          "href": "s18.html#v-1SVbikZ-KY474Ae1ovawegCqnVf26_GgS"
+        },
+        {
+          "number": 2,
+          "title": "Abusing ZeroLogon",
+          "id": "1Slhv48HK0ETQyjKzldRo73TLWsMdMubf",
+          "anchor": "v-1Slhv48HK0ETQyjKzldRo73TLWsMdMubf",
+          "href": "s18.html#v-1Slhv48HK0ETQyjKzldRo73TLWsMdMubf"
+        },
+        {
+          "number": 3,
+          "title": "PrintNightmare CVE-2021-1675 Walkthrough",
+          "id": "1SmS1IuYTtt2MoWRjFclRSH-8d1g4veTJ",
+          "anchor": "v-1SmS1IuYTtt2MoWRjFclRSH-8d1g4veTJ",
+          "href": "s18.html#v-1SmS1IuYTtt2MoWRjFclRSH-8d1g4veTJ"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Active Directory Case Studies",
+      "page": "s19.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "AD Case Study 1",
+          "id": "1MY9iBawgfl7sNyh5y8sYyDHf4bxhhja-",
+          "anchor": "v-1MY9iBawgfl7sNyh5y8sYyDHf4bxhhja-",
+          "href": "s19.html#v-1MY9iBawgfl7sNyh5y8sYyDHf4bxhhja-"
+        },
+        {
+          "number": 2,
+          "title": "AD Case Study 2",
+          "id": "1M0ayfxOyEh4AJjWktusp1o3XCUKGhl1j",
+          "anchor": "v-1M0ayfxOyEh4AJjWktusp1o3XCUKGhl1j",
+          "href": "s19.html#v-1M0ayfxOyEh4AJjWktusp1o3XCUKGhl1j"
+        },
+        {
+          "number": 3,
+          "title": "AD Case Study 3",
+          "id": "1M5dKIMNTlk0R-K3liDmxMW59ALikcTvw",
+          "anchor": "v-1M5dKIMNTlk0R-K3liDmxMW59ALikcTvw",
+          "href": "s19.html#v-1M5dKIMNTlk0R-K3liDmxMW59ALikcTvw"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Post Exploitation",
+      "page": "s20.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1KDrLYwlWttb4wOwugTpqHG3p9t-d4aBG",
+          "anchor": "v-1KDrLYwlWttb4wOwugTpqHG3p9t-d4aBG",
+          "href": "s20.html#v-1KDrLYwlWttb4wOwugTpqHG3p9t-d4aBG"
+        },
+        {
+          "number": 2,
+          "title": "File Transfers Review",
+          "id": "1KfFdyW-AzUeS9hHJRUnnjPpYQvZ1wa-9",
+          "anchor": "v-1KfFdyW-AzUeS9hHJRUnnjPpYQvZ1wa-9",
+          "href": "s20.html#v-1KfFdyW-AzUeS9hHJRUnnjPpYQvZ1wa-9"
+        },
+        {
+          "number": 3,
+          "title": "Maintaining Access Overview",
+          "id": "1Kn5UO_lV8r_53MeyaX-UmdzIBeYWuew3",
+          "anchor": "v-1Kn5UO_lV8r_53MeyaX-UmdzIBeYWuew3",
+          "href": "s20.html#v-1Kn5UO_lV8r_53MeyaX-UmdzIBeYWuew3"
+        },
+        {
+          "number": 4,
+          "title": "Pivoting Overview",
+          "id": "1Kh4dkQbPYFHTRhp7COOohga9ZCeiaCuf",
+          "anchor": "v-1Kh4dkQbPYFHTRhp7COOohga9ZCeiaCuf",
+          "href": "s20.html#v-1Kh4dkQbPYFHTRhp7COOohga9ZCeiaCuf"
+        },
+        {
+          "number": 5,
+          "title": "Pivoting Walkthrough",
+          "id": "1L0hfaT84UFepEKu-PEANb5JjXpK9rOVz",
+          "anchor": "v-1L0hfaT84UFepEKu-PEANb5JjXpK9rOVz",
+          "href": "s20.html#v-1L0hfaT84UFepEKu-PEANb5JjXpK9rOVz"
+        },
+        {
+          "number": 6,
+          "title": "Cleaning Up",
+          "id": "1Kaib2almhORXf9INyBkdMbBucLyjGubS",
+          "anchor": "v-1Kaib2almhORXf9INyBkdMbBucLyjGubS",
+          "href": "s20.html#v-1Kaib2almhORXf9INyBkdMbBucLyjGubS"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Web Application Enumeration Revisited",
+      "page": "s21.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1TEGHk2Dp-p0huiysG5RWVFpJuLljoati",
+          "anchor": "v-1TEGHk2Dp-p0huiysG5RWVFpJuLljoati",
+          "href": "s21.html#v-1TEGHk2Dp-p0huiysG5RWVFpJuLljoati"
+        },
+        {
+          "number": 2,
+          "title": "Installing Go",
+          "id": "1TDmVuWx3wpOwIzVz4C-WOdelRryIFUAS",
+          "anchor": "v-1TDmVuWx3wpOwIzVz4C-WOdelRryIFUAS",
+          "href": "s21.html#v-1TDmVuWx3wpOwIzVz4C-WOdelRryIFUAS"
+        },
+        {
+          "number": 3,
+          "title": "Finding Subdomains with Assetfinder",
+          "id": "1TJKtX9Smj6XhAyj34TCidXzAr-4GHY6w",
+          "anchor": "v-1TJKtX9Smj6XhAyj34TCidXzAr-4GHY6w",
+          "href": "s21.html#v-1TJKtX9Smj6XhAyj34TCidXzAr-4GHY6w"
+        },
+        {
+          "number": 4,
+          "title": "Finding Subdomains with Amass",
+          "id": "1TJfErCbH--VpFTwvBZkUkJCMHRe3mPDv",
+          "anchor": "v-1TJfErCbH--VpFTwvBZkUkJCMHRe3mPDv",
+          "href": "s21.html#v-1TJfErCbH--VpFTwvBZkUkJCMHRe3mPDv"
+        },
+        {
+          "number": 5,
+          "title": "Finding Alive Domains with Httprobe",
+          "id": "1SxyRTXGnTVFt_Hn8h2Ekwh1NDj7PFXEu",
+          "anchor": "v-1SxyRTXGnTVFt_Hn8h2Ekwh1NDj7PFXEu",
+          "href": "s21.html#v-1SxyRTXGnTVFt_Hn8h2Ekwh1NDj7PFXEu"
+        },
+        {
+          "number": 6,
+          "title": "Screenshotting Websites with GoWitness",
+          "id": "1SpBdSTppCdf6KdUTgs7dIV4IOuQ1hjHN",
+          "anchor": "v-1SpBdSTppCdf6KdUTgs7dIV4IOuQ1hjHN",
+          "href": "s21.html#v-1SpBdSTppCdf6KdUTgs7dIV4IOuQ1hjHN"
+        },
+        {
+          "number": 7,
+          "title": "Automating the Enumeration Process",
+          "id": "1TJ5qbZ-Vjjqw2CAh_56HKCaf2WBfp5_I",
+          "anchor": "v-1TJ5qbZ-Vjjqw2CAh_56HKCaf2WBfp5_I",
+          "href": "s21.html#v-1TJ5qbZ-Vjjqw2CAh_56HKCaf2WBfp5_I"
+        },
+        {
+          "number": 8,
+          "title": "Additional Resources",
+          "id": "1T79D8VYbeMQ3jjaUuICYee6ZuJAf8xtN",
+          "anchor": "v-1T79D8VYbeMQ3jjaUuICYee6ZuJAf8xtN",
+          "href": "s21.html#v-1T79D8VYbeMQ3jjaUuICYee6ZuJAf8xtN"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Find & Exploit Common Web Vulnerabilities",
+      "page": "s22.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1U6TZjNhbczfqHju-O6xGR3QbQtIEecNj",
+          "anchor": "v-1U6TZjNhbczfqHju-O6xGR3QbQtIEecNj",
+          "href": "s22.html#v-1U6TZjNhbczfqHju-O6xGR3QbQtIEecNj"
+        },
+        {
+          "number": 2,
+          "title": "Lab Setup full text instructions included in course notes",
+          "id": "1UMnrgMaizAqyJ_aUEl28whjMd0e_immN",
+          "anchor": "v-1UMnrgMaizAqyJ_aUEl28whjMd0e_immN",
+          "href": "s22.html#v-1UMnrgMaizAqyJ_aUEl28whjMd0e_immN"
+        },
+        {
+          "number": 3,
+          "title": "SQL Injection - Introduction",
+          "id": "1UmeG9LKGw_bWkEsJMC_3Vq7nmtS8x73E",
+          "anchor": "v-1UmeG9LKGw_bWkEsJMC_3Vq7nmtS8x73E",
+          "href": "s22.html#v-1UmeG9LKGw_bWkEsJMC_3Vq7nmtS8x73E"
+        },
+        {
+          "number": 4,
+          "title": "SQL Injection - UNION",
+          "id": "1U2DFVWPSuCcuzH1VGo45714m4ZWANYC4",
+          "anchor": "v-1U2DFVWPSuCcuzH1VGo45714m4ZWANYC4",
+          "href": "s22.html#v-1U2DFVWPSuCcuzH1VGo45714m4ZWANYC4"
+        },
+        {
+          "number": 5,
+          "title": "SQL Injection - Blind Part 1",
+          "id": "1UJGG2PH7XPMnid7FgBmb6s_SjWuND2DW",
+          "anchor": "v-1UJGG2PH7XPMnid7FgBmb6s_SjWuND2DW",
+          "href": "s22.html#v-1UJGG2PH7XPMnid7FgBmb6s_SjWuND2DW"
+        },
+        {
+          "number": 6,
+          "title": "SQL Injection - Blind Part 2",
+          "id": "1UTcftn8qr_4noHl5-LnDdPSNXo_7H1aw",
+          "anchor": "v-1UTcftn8qr_4noHl5-LnDdPSNXo_7H1aw",
+          "href": "s22.html#v-1UTcftn8qr_4noHl5-LnDdPSNXo_7H1aw"
+        },
+        {
+          "number": 7,
+          "title": "SQL Injection - Challenge Waklthrough",
+          "id": "1UOu4woOWVoAihKCj_MFdSpEameO68V9-",
+          "anchor": "v-1UOu4woOWVoAihKCj_MFdSpEameO68V9-",
+          "href": "s22.html#v-1UOu4woOWVoAihKCj_MFdSpEameO68V9-"
+        },
+        {
+          "number": 8,
+          "title": "XSS - Introduction",
+          "id": "1UzI4ZriH-MiTwFCxbfb0zxiSzB8jl55G",
+          "anchor": "v-1UzI4ZriH-MiTwFCxbfb0zxiSzB8jl55G",
+          "href": "s22.html#v-1UzI4ZriH-MiTwFCxbfb0zxiSzB8jl55G"
+        },
+        {
+          "number": 9,
+          "title": "XSS - DOM Lab",
+          "id": "1TU5nK4s8IBfZHBxaUUKOld7fIvNGvCC4",
+          "anchor": "v-1TU5nK4s8IBfZHBxaUUKOld7fIvNGvCC4",
+          "href": "s22.html#v-1TU5nK4s8IBfZHBxaUUKOld7fIvNGvCC4"
+        },
+        {
+          "number": 10,
+          "title": "XSS - Stored Lab",
+          "id": "1UPXK7Ao9u9zYwRxVMCJ1_uYCQRoOTF5O",
+          "anchor": "v-1UPXK7Ao9u9zYwRxVMCJ1_uYCQRoOTF5O",
+          "href": "s22.html#v-1UPXK7Ao9u9zYwRxVMCJ1_uYCQRoOTF5O"
+        },
+        {
+          "number": 11,
+          "title": "XSS - Challenge Walkthrough",
+          "id": "1UbV5e_MQ056Ls0n7SEb61hj7LBhnF7Q1",
+          "anchor": "v-1UbV5e_MQ056Ls0n7SEb61hj7LBhnF7Q1",
+          "href": "s22.html#v-1UbV5e_MQ056Ls0n7SEb61hj7LBhnF7Q1"
+        },
+        {
+          "number": 12,
+          "title": "Command Injection - Introduction",
+          "id": "1TmdW_DdBjuQOdkdYaAOkp1RVEyU7HL2S",
+          "anchor": "v-1TmdW_DdBjuQOdkdYaAOkp1RVEyU7HL2S",
+          "href": "s22.html#v-1TmdW_DdBjuQOdkdYaAOkp1RVEyU7HL2S"
+        },
+        {
+          "number": 13,
+          "title": "Command Injection - Basics",
+          "id": "1V0rx62070SBGUd5fexo3U2Y-Dh191iHa",
+          "anchor": "v-1V0rx62070SBGUd5fexo3U2Y-Dh191iHa",
+          "href": "s22.html#v-1V0rx62070SBGUd5fexo3U2Y-Dh191iHa"
+        },
+        {
+          "number": 14,
+          "title": "Command Injection - Blind - Out-of-Band",
+          "id": "1UTGphi7ndDwR9Tbl2jPlBQoDrTRNXwJC",
+          "anchor": "v-1UTGphi7ndDwR9Tbl2jPlBQoDrTRNXwJC",
+          "href": "s22.html#v-1UTGphi7ndDwR9Tbl2jPlBQoDrTRNXwJC"
+        },
+        {
+          "number": 15,
+          "title": "Command Injection - Challenge Walkthrough",
+          "id": "1UETydfgEP4dUrlYxn4lC8MEKFBEdbLr3",
+          "anchor": "v-1UETydfgEP4dUrlYxn4lC8MEKFBEdbLr3",
+          "href": "s22.html#v-1UETydfgEP4dUrlYxn4lC8MEKFBEdbLr3"
+        },
+        {
+          "number": 16,
+          "title": "Insecure File Upload - Introduction",
+          "id": "1TZP1MCZoavxYjXixrjyKPeTDndH768Um",
+          "anchor": "v-1TZP1MCZoavxYjXixrjyKPeTDndH768Um",
+          "href": "s22.html#v-1TZP1MCZoavxYjXixrjyKPeTDndH768Um"
+        },
+        {
+          "number": 17,
+          "title": "Insecure File Upload - Basic Bypass",
+          "id": "1U55chXrX4-HK0HVtyqTy3r4ztycky-qp",
+          "anchor": "v-1U55chXrX4-HK0HVtyqTy3r4ztycky-qp",
+          "href": "s22.html#v-1U55chXrX4-HK0HVtyqTy3r4ztycky-qp"
+        },
+        {
+          "number": 18,
+          "title": "Insecure File Upload - Magic Bytes",
+          "id": "1UvVhFk-UmDBp_cKzo4yxA4Y6TwAdXBV6",
+          "anchor": "v-1UvVhFk-UmDBp_cKzo4yxA4Y6TwAdXBV6",
+          "href": "s22.html#v-1UvVhFk-UmDBp_cKzo4yxA4Y6TwAdXBV6"
+        },
+        {
+          "number": 19,
+          "title": "Insecure File Upload - Challenge Walkthrough",
+          "id": "1UkHq77yy7SmpvZdTDktaL1bp7Qu_R2oJ",
+          "anchor": "v-1UkHq77yy7SmpvZdTDktaL1bp7Qu_R2oJ",
+          "href": "s22.html#v-1UkHq77yy7SmpvZdTDktaL1bp7Qu_R2oJ"
+        },
+        {
+          "number": 20,
+          "title": "Attacking Authentication - Intro",
+          "id": "1UVzfJ6HMIae533ebYBVBGl_OdhlaqZBu",
+          "anchor": "v-1UVzfJ6HMIae533ebYBVBGl_OdhlaqZBu",
+          "href": "s22.html#v-1UVzfJ6HMIae533ebYBVBGl_OdhlaqZBu"
+        },
+        {
+          "number": 21,
+          "title": "Attacking Authentication - Brute Force",
+          "id": "1TfC4sd-GwFmsFJa2N_S6tB7AsNzvWB2g",
+          "anchor": "v-1TfC4sd-GwFmsFJa2N_S6tB7AsNzvWB2g",
+          "href": "s22.html#v-1TfC4sd-GwFmsFJa2N_S6tB7AsNzvWB2g"
+        },
+        {
+          "number": 22,
+          "title": "Attacking Authentication - MFA",
+          "id": "1V5gEikIZ048_nJxg3P-6elP5QZ-y3xi3",
+          "anchor": "v-1V5gEikIZ048_nJxg3P-6elP5QZ-y3xi3",
+          "href": "s22.html#v-1V5gEikIZ048_nJxg3P-6elP5QZ-y3xi3"
+        },
+        {
+          "number": 23,
+          "title": "Attacking Authentication - Challenge Walkthrough",
+          "id": "1U4gQDCojg-tVyJ_e34rJ_UvQyCWi3AhR",
+          "anchor": "v-1U4gQDCojg-tVyJ_e34rJ_UvQyCWi3AhR",
+          "href": "s22.html#v-1U4gQDCojg-tVyJ_e34rJ_UvQyCWi3AhR"
+        },
+        {
+          "number": 24,
+          "title": "XXE - External Entities Injection",
+          "id": "1UTor0n9qcdWSCfVt8f0uduKXz3Fg19rT",
+          "anchor": "v-1UTor0n9qcdWSCfVt8f0uduKXz3Fg19rT",
+          "href": "s22.html#v-1UTor0n9qcdWSCfVt8f0uduKXz3Fg19rT"
+        },
+        {
+          "number": 25,
+          "title": "IDOR - Insecure Direct Object Reference",
+          "id": "1U9-vt9t4oAVxIL7cxdfHzYBYMq3aUv7m",
+          "anchor": "v-1U9-vt9t4oAVxIL7cxdfHzYBYMq3aUv7m",
+          "href": "s22.html#v-1U9-vt9t4oAVxIL7cxdfHzYBYMq3aUv7m"
+        },
+        {
+          "number": 26,
+          "title": "Capstone - Introduction",
+          "id": "1Uauqd55vK8VSA534R9GFnx2k17r_BKG9",
+          "anchor": "v-1Uauqd55vK8VSA534R9GFnx2k17r_BKG9",
+          "href": "s22.html#v-1Uauqd55vK8VSA534R9GFnx2k17r_BKG9"
+        },
+        {
+          "number": 27,
+          "title": "Capstone - Solution",
+          "id": "1UaqYprITP_1sTwgdN2co7qiIzuBz2bCZ",
+          "anchor": "v-1UaqYprITP_1sTwgdN2co7qiIzuBz2bCZ",
+          "href": "s22.html#v-1UaqYprITP_1sTwgdN2co7qiIzuBz2bCZ"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Wireless Penetration Testing",
+      "page": "s23.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "001 Wireless Penetration Testing Overview",
+          "id": "1NO0aj0pVVJsRb-AA1Ib4UTRvCGySxnZ_",
+          "anchor": "v-1NO0aj0pVVJsRb-AA1Ib4UTRvCGySxnZ_",
+          "href": "s23.html#v-1NO0aj0pVVJsRb-AA1Ib4UTRvCGySxnZ_"
+        },
+        {
+          "number": 2,
+          "title": "002 WPA PS2 Exploit Walkthrough",
+          "id": "1NHffl5EPa_tFVcfWXRnWNj5vf4GgDU41",
+          "anchor": "v-1NHffl5EPa_tFVcfWXRnWNj5vf4GgDU41",
+          "href": "s23.html#v-1NHffl5EPa_tFVcfWXRnWNj5vf4GgDU41"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Legal Documents and Report Writing",
+      "page": "s24.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "001 Common Legal Documents",
+          "id": "1Q9XyMnFtuu3OlO8uisuznsWksboUcnR9",
+          "anchor": "v-1Q9XyMnFtuu3OlO8uisuznsWksboUcnR9",
+          "href": "s24.html#v-1Q9XyMnFtuu3OlO8uisuznsWksboUcnR9"
+        },
+        {
+          "number": 2,
+          "title": "002 Pentest Report Writing",
+          "id": "1P6YpPPOHJ8oBq4P1RAVWfMyWusL6FKsO",
+          "anchor": "v-1P6YpPPOHJ8oBq4P1RAVWfMyWusL6FKsO",
+          "href": "s24.html#v-1P6YpPPOHJ8oBq4P1RAVWfMyWusL6FKsO"
+        },
+        {
+          "number": 3,
+          "title": "003 Reviewing a Real Pentest Report",
+          "id": "1P5RBIYfYswejhdaCJ9n62m4vuGXRbhmX",
+          "anchor": "v-1P5RBIYfYswejhdaCJ9n62m4vuGXRbhmX",
+          "href": "s24.html#v-1P5RBIYfYswejhdaCJ9n62m4vuGXRbhmX"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "title": "Career Advice",
+      "page": "s25.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "001 Career Advice",
+          "id": "1L7Rhow3HevYAl2BwYuLjJzZAx6U-yQ5G",
+          "anchor": "v-1L7Rhow3HevYAl2BwYuLjJzZAx6U-yQ5G",
+          "href": "s25.html#v-1L7Rhow3HevYAl2BwYuLjJzZAx6U-yQ5G"
+        }
+      ]
+    }
+  ]
+}
